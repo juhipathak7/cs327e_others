@@ -1,0 +1,10 @@
+alter table Movies drop column number;
+alter table Movies drop column type;
+alter table Movies drop column location;
+alter table Movies drop column language;
+alter table Series drop column season;
+alter table Series drop column number;
+alter table Casts drop column billing_position;
+alter table Movies_Keywords drop column id_series;
+alter table Movies_Genres drop column id_series;
+alter table Actors alter column gender TYPE char(1);

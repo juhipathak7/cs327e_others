@@ -1,0 +1,44 @@
+﻿Queries
+
+
+1.What keywords are used in Dramas?
+        -implement with dictionaries
+
+
+2. How many actors in the database starred in War movies?
+
+
+3. How many comedy movies are from the US?
+
+
+4. Which genre uses the keyword “drinking” the most?
+
+
+5. Which actor has been in the most movies?
+
+
+6. Which genre produces the most movies?
+
+
+7. Which actor is most popular in Russian films (by appearing in the most films)?
+
+
+8. How many actresses were featured in movies in 2007?
+
+
+9. Which series has the biggest cast?
+
+
+10. Which year produced the most romance movies?
+
+
+11. Which country produces the most movies?
+
+
+12.  How many movies came out in 2012?
+
+
+13.How many actors with the first name Brad star in movies?
+
+
+14.) How many series are comedies?
